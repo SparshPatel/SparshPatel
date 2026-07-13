@@ -1,18 +1,18 @@
 # Sparsh Patel | Computational Finance & Systems Engineering
 
-<!-- HUGE FULL-WIDTH PIXEL ART BANNER -->
-<img src="YOUR_UPLOADED_IMAGE_URL_HERE" alt="Quant Lord of the Rings Landscape" width="100%" />
+<!-- 1. THE COMPLETE SCENE BANNER -->
+<img src="PASTE_YOUR_UPLOADED_IMAGE_URL_HERE" alt="Quant Lord of the Rings Landscape" width="100%" />
 
 <br />
 
 ---
 
-<!-- VERTICAL HALF-PAGE SPLIT USING HTML TABLE -->
+<!-- 2. THE VERTICAL HALF-PAGE SPLIT -->
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 
-<!-- LEFT HALF: CALLING CARD & DIRECT ENTRYWAYS -->
-<td width="50%" style="vertical-align: top; padding-right: 20px; border: none;">
+<!-- LEFT SIDE: DIRECT OUTBOUND LINKS -->
+<td width="48%" style="vertical-align: top; padding-right: 2%; border: none;">
 
 ## 🕹️ PORTFOLIO RUNTIME ENVIRONMENT
 
@@ -21,20 +21,19 @@ Traditional markdown profiles are completely skippable. My real work requires a 
 ### ⚡ [Launch My Live Interactive Portfolio](YOUR_WEBSITE_URL_HERE)
 
 ### 📬 SECURE COMMS AREA
-*   **Email:** [sparsh@example.com](mailto:sparsh@example.com) *(Update with your actual email)*
-*   **LinkedIn:** [linkedin.com/in/sparsh-patel](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+*   **LinkedIn:** [linkedin.com/in/sparsh-patel](https://linkedin.com/in/sparsh-patel)
 *   **Network:** ACM Core Developer Ecosystem
 
 </td>
 
-<!-- RIGHT HALF: LIVE STATS & TOP LANGUAGES -->
-<td width="50%" style="vertical-align: top; padding-left: 20px; border: none;">
+<!-- RIGHT SIDE: THE FIXED LIVE METRICS -->
+<td width="48%" style="vertical-align: top; padding-left: 2%; border: none;">
 
 ## 📊 LIVE METRICS & CORES
 
 <img src="https://github-readme-stats.vercel.app/api?username=SparshPatel&show_icons=true&theme=tokyonight&count_private=true" alt="Sparsh's GitHub Stats" width="100%" />
 
-<br />
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshPatel&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="100%" />
 
