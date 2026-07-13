@@ -73,6 +73,9 @@ Academic researcher and systems engineer working at the intersection of quantita
 
 ### Industry Experience
 
+#### D+A Strategies
+* **Alpha Researcher:** Specializing in portfolio construction, alpha generation, and quantitative asset management under uncertain market regimes.
+
 #### Shepherd Ventures | Financial Quantitative Analyst Intern
 * Engineered MVO-based portfolio optimization pipelines, achieving benchmark protection ratios from 32.49% up to a program-best 45.3% under simulated market crises.
 * Conducted tail-risk, draw-down, and clustering-method research for systematic "Black Swan Flu Shot" hedging strategies.
@@ -85,6 +88,9 @@ Academic researcher and systems engineer working at the intersection of quantita
 
 #### EY GDS | Full Stack Intern
 * Built MERN-based web applications during internship under EY GDS in collaboration with AICTE.
+
+#### MyDailyWork | Developer Intern
+* Contributed to production environments executing software engineering tasks and features within a collaborative developer framework.
 
 ### Ecosystem & Community
 * **ACM Student Chapter:** Active core developer.
