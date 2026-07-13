@@ -1,4 +1,4 @@
-<img src="https://github.com/SparshPatel/SparshPatel/blob/main/github%20image.jpg?raw=true" alt="Quant Lord of the Rings Landscape" width="100%" />
+<img src="https://raw.githubusercontent.com/SparshPatel/SparshPatel/main/github%20image.jpg" alt="Quant Lord of the Rings Landscape" width="100%" />
 ---
 
 ## 🕹️ PORTFOLIO RUNTIME ENVIRONMENT
@@ -15,8 +15,10 @@ Traditional markdown profiles are completely skippable. My real work requires a 
 
 ## 📊 Analytics & Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SparshPatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SparshPatel&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SparshPatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sparsh's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SparshPatel&theme=tokyonight&hide_border=true" alt="Sparsh's Streak Stats" width="48%"/>
+</p>
 
 ---
 
