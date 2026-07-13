@@ -1,6 +1,3 @@
-# Sparsh Patel | Computational Finance & Systems Engineering
-
-<!-- 1. THE COMPLETE SCENE BANNER (FIXED RAW LINK) -->
 <img src="https://raw.githubusercontent.com/SparshPatel/SparshPatel/main/github%20image.jpg" alt="Quant Lord of the Rings Landscape" width="100%" />
 
 <br />
