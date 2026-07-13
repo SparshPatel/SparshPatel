@@ -8,8 +8,7 @@ Traditional markdown profiles are completely skippable. My real work requires a 
 ### ⚡ [Launch My Live Interactive Portfolio](YOUR_WEBSITE_URL_HERE)
 
 ### 📬 SECURE COMMS AREA
-*   **LinkedIn:** [linkedin.com/in/sparsh-patel](https://linkedin.com/in/sparsh-patel)
-*   **Network:** ACM Core Developer Ecosystem
+*   **LinkedIn:** [linkedin.com/in/Sparsh Patel](https://www.linkedin.com/in/sparsh-patel-b214771b0/)
 
 ---
 
@@ -24,4 +23,4 @@ Traditional markdown profiles are completely skippable. My real work requires a 
 
 ### Ecosystem & Community
 * **ACM Student Chapter:** Active core developer.
-* **Specialized Infrastructure Tracks:** Selected developer tracking under **NVIDIA**, **AMD**, and **GitHub**.
+* **Developer programs** Selected developer tracking under **NVIDIA**, **AMD**, and **GitHub**.
