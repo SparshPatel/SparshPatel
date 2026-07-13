@@ -1,28 +1,50 @@
 # Sparsh Patel | Computational Finance & Systems Engineering
 
-*Empirical Asset Pricing • Portfolio Construction Under Model Uncertainty • High-Throughput Systems*
+<!-- HUGE FULL-WIDTH PIXEL ART BANNER -->
+<img src="YOUR_UPLOADED_IMAGE_URL_HERE" alt="Quant Lord of the Rings Landscape" width="100%" />
 
-Academic researcher and systems engineer working at the intersection of quantitative asset management and computational finance. My work focuses on building robust mathematical frameworks—spanning stochastic calculus, convex optimization, and reinforcement learning—and backing them with high-performance production code.
+<br />
 
-### Engineering Impact & Core Metrics
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SparshPatel&show_icons=true&theme=tokyonight&count_private=true" alt="Sparsh's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshPatel&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
-</p>
+<!-- VERTICAL HALF-PAGE SPLIT USING HTML TABLE -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
 
-# 🕹️ STOP SKIMMING. YOU'RE MISSING THE GOOD STUFF.
+<!-- LEFT HALF: CALLING CARD & DIRECT ENTRYWAYS -->
+<td width="50%" style="vertical-align: top; padding-right: 20px; border: none;">
 
-> **Institutional Notice:** My full architectural pipelines, mathematical derivations, and production-grade engineering deployments live on a dedicated terminal platform because GitHub's standard markdown environment is too primitive to host them.
+## 🕹️ PORTFOLIO RUNTIME ENVIRONMENT
 
-### ⚡ [Click Here to Launch My Live Interactive Portfolio](YOUR_WEBSITE_URL_HERE)
+Traditional markdown profiles are completely skippable. My real work requires a custom graphic rendering context to view underlying optimization surfaces, alpha research pipelines, and the full credential matrix.
 
-*   **🎛️ Fully Interactive Stacks:** Hover, click, and break open the exact mathematical definitions behind my optimization models.
-*   **📁 Deep-Dive Code Ecosystem:** Exploded project views covering everything from Alpha Research engines down to Multi-Modal Deep Learning frameworks.
-*   **📜 Complete Verification Suite:** The full catalog of all 42+ verified system and algorithmic engineering credentials.
+### ⚡ [Launch My Live Interactive Portfolio](YOUR_WEBSITE_URL_HERE)
+
+### 📬 SECURE COMMS AREA
+*   **Email:** [sparsh@example.com](mailto:sparsh@example.com) *(Update with your actual email)*
+*   **LinkedIn:** [linkedin.com/in/sparsh-patel](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+*   **Network:** ACM Core Developer Ecosystem
+
+</td>
+
+<!-- RIGHT HALF: LIVE STATS & TOP LANGUAGES -->
+<td width="50%" style="vertical-align: top; padding-left: 20px; border: none;">
+
+## 📊 LIVE METRICS & CORES
+
+<img src="https://github-readme-stats.vercel.app/api?username=SparshPatel&show_icons=true&theme=tokyonight&count_private=true" alt="Sparsh's GitHub Stats" width="100%" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshPatel&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="100%" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ### Ecosystem & Community
 * **ACM Student Chapter:** Active core developer.
-* **Hardware & Ecosystem Programs:** Selected participant in specialized engineering and developer initiatives under **NVIDIA**, **AMD**, and **GitHub**.
+* **Specialized Infrastructure Tracks:** Selected developer tracking under **NVIDIA**, **AMD**, and **GitHub**.
