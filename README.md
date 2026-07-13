@@ -1,18 +1,18 @@
 # Sparsh Patel | Computational Finance & Systems Engineering
 
-<!-- 1. THE COMPLETE SCENE BANNER -->
-<img src="[PASTE_YOUR_UPLOADED_IMAGE_URL_HERE](https://github.com/SparshPatel/SparshPatel/blob/main/github%20image.jpg)" alt="Quant Lord of the Rings Landscape" width="100%" />
+<!-- 1. THE COMPLETE SCENE BANNER (FIXED RAW LINK) -->
+<img src="https://raw.githubusercontent.com/SparshPatel/SparshPatel/main/github%20image.jpg" alt="Quant Lord of the Rings Landscape" width="100%" />
 
 <br />
 
 ---
 
-<!-- 2. THE VERTICAL HALF-PAGE SPLIT -->
+<!-- 2. THE VERTICAL HALF-PAGE SPLIT (FIXED FOR GITHUB SANITIZER) -->
 <table width="100%" style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 
 <!-- LEFT SIDE: DIRECT OUTBOUND LINKS -->
-<td width="48%" style="vertical-align: top; padding-right: 2%; border: none;">
+<td width="50%" style="vertical-align: top; padding-right: 10px; border: none;">
 
 ## 🕹️ PORTFOLIO RUNTIME ENVIRONMENT
 
@@ -26,16 +26,17 @@ Traditional markdown profiles are completely skippable. My real work requires a 
 
 </td>
 
-<!-- RIGHT SIDE: THE FIXED LIVE METRICS -->
-<td width="48%" style="vertical-align: top; padding-left: 2%; border: none;">
+<!-- RIGHT SIDE: FIXED LIVE METRICS (REMOVED WIDTH PERCENTAGES TO FORCE RENDER) -->
+<td width="50%" style="vertical-align: top; padding-left: 10px; border: none;">
 
 ## 📊 LIVE METRICS & CORES
 
-<img src="https://github-readme-stats.vercel.app/api?username=SparshPatel&show_icons=true&theme=tokyonight&count_private=true" alt="Sparsh's GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SparshPatel&show_icons=true&theme=tokyonight&count_private=true" alt="Sparsh's GitHub Stats" />
 
 <br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshPatel&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshPatel&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 
 </td>
 
