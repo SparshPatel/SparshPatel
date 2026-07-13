@@ -1,15 +1,16 @@
-<img src="https://raw.githubusercontent.com/SparshPatel/SparshPatel/main/github%20image.jpg" alt="Quant Lord of the Rings Landscape" width="100%" />
+<!-- 1. THE COMPLETE SCENE BANNER (ABSOLUTE TOP) -->
+<img src="https://raw.githubusercontent.com/SparshPatel/SparshPatel/main/github%20image.jpg" alt="Quant Lord of the Rings Landscape" width="100%" style="width: 100%; max-width: 100%; display: block; margin: 0 auto;" />
 
 <br />
 
 ---
 
-<!-- 2. THE VERTICAL HALF-PAGE SPLIT (FIXED FOR GITHUB SANITIZER) -->
-<table width="100%" style="border-collapse: collapse; border: none;">
+<!-- 2. THE VERTICAL HALF-PAGE SPLIT -->
+<table width="100%" style="border-collapse: collapse; border: none; width: 100%;">
 <tr style="border: none;">
 
 <!-- LEFT SIDE: DIRECT OUTBOUND LINKS -->
-<td width="50%" style="vertical-align: top; padding-right: 10px; border: none;">
+<td width="50%" style="vertical-align: top; padding-right: 15px; border: none;">
 
 ## 🕹️ PORTFOLIO RUNTIME ENVIRONMENT
 
@@ -23,8 +24,8 @@ Traditional markdown profiles are completely skippable. My real work requires a 
 
 </td>
 
-<!-- RIGHT SIDE: FIXED LIVE METRICS (REMOVED WIDTH PERCENTAGES TO FORCE RENDER) -->
-<td width="50%" style="vertical-align: top; padding-left: 10px; border: none;">
+<!-- RIGHT SIDE: FIXED LIVE METRICS (STACKED VERTICALLY WITHOUT PERCENTAGE WRAPPERS) -->
+<td width="50%" style="vertical-align: top; padding-left: 15px; border: none;">
 
 ## 📊 LIVE METRICS & CORES
 
