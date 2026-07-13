@@ -14,13 +14,11 @@ Traditional markdown profiles are completely skippable. My real work requires a 
 
 ## 📊 Analytics & Insights
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SparshPatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sparsh's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SparshPatel&theme=tokyonight&hide_border=true" alt="Sparsh's Streak Stats" width="48%"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=SparshPatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SparshPatel&theme=tokyonight&hide_border=true)
 
 ---
 
 ### Ecosystem & Community
 * **ACM Student Chapter:** Active core developer.
-* **Developer programs** Selected developer tracking under **NVIDIA**, **AMD**, and **GitHub**.
+* **Developer programs:** Selected developer tracking under **NVIDIA**, **AMD**, and **GitHub**.
